@@ -1,5 +1,9 @@
-title: Monlam AI 23
-description: Tibetan MT, OCR and STT
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
+title: GitHub pages template
+description: A simple template based on minimal jekyll theme
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
