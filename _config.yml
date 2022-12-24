@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
+title: Monlam AI
 description: A simple template based on minimal jekyll theme
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
+  - title: MT
+    url: mt
