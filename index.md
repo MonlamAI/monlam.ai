@@ -4,7 +4,7 @@ layout: default
 # {{site.title}}
 {{site.description}}
 
-The Monlam AI project is an effort to develop Tibetan language technology in order to bridge the technology and language divides in the Tibetan communities. Over the next three years, this project will improve Tibetan AI in three major areas:
+The Monlam AI project aims to improve Tibetan AI in three major areas:
 - Machine Translation
 - OCR (Optical Character Recognition)
 - Speech-to-Text + Text-to-Speech
