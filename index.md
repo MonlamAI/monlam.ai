@@ -29,4 +29,4 @@ Speech-to-text (STT) and text-to-speech recognition are a cornerstone of modern 
 
 ## Project Execution
 
-The Monlam AI project will be implemented at the Monlam IT Research Center in Dharamsala and in the Monlam AI office at the Dalai Lama Institute Higher Education (DLIHE). The project will also involve contributions from freelancers from Sera, Jangchup Choling Nunnery, Pecha Jobs and other partner organizations.
+The Monlam AI project is being be implemented at the Monlam IT Research Center in Dharamsala and the Monlam AI office at the Dalai Lama Institute Higher Education (DLIHE). The project also involves contributions from freelancers from Sera, Jangchup Choling Nunnery, Pecha Jobs and other partner organizations.
