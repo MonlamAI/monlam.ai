@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# {{site.title}}
-{{site.description}}
 
 The Monlam AI project aims to improve Tibetan AI in three major areas:
 - Machine Translation
