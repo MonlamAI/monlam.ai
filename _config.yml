@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
 title: Monlam AI
 description: Developing Tibetan language technology to bridge the language and tech divides in Tibetan communities
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
-  - title: MT
-    url: mt
