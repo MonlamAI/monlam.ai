@@ -1,10 +1,16 @@
 title: Monlam AI
-logo: /assets/img/logo.png
-description: AI in the service of Tibetan language and culture
+logo: /assets/img/Monlam AI logo.png
+description: Artificial intelligence in service of Tibetan language and culture
 show_downloads: False
 theme: jekyll-theme-minimal
 navigation:
   - title: Home
     url: /
+  - title: Monlam Translate
+    url: /mt
+  - title: Monlam OCR
+    url: /ocr
+  - title: Monlam Speech
+    url: /stt
   - title: Partners
     url: /partners
