@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
 title: Monlam AI
 logo: /assets/img/logo.png
 description: Developing Tibetan language technology to bridge the language and tech divides in Tibetan communities
 show_downloads: False
+theme: jekyll-theme-minimal
 navigation:
   - title: Home
     url: /
