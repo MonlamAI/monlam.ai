@@ -6,3 +6,5 @@ theme: jekyll-theme-minimal
 navigation:
   - title: Home
     url: /
+  - title: Partners
+    url: /
