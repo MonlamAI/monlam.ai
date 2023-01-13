@@ -7,7 +7,7 @@ navigation:
   - title: Home
     url: /
   - title: Monlam Translate
-    url: /mt
+    url: /translation
   - title: Monlam OCR
     url: /ocr
   - title: Monlam Speech
