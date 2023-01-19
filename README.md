@@ -1,9 +1,8 @@
-# gh-pages-template
-A GitHub pages template based on [minimal Jekyll theme.](https://github.com/pages-themes/minimal)
-Couple of additional futures such as a navigation bar and a full page layout are added to the minimal theme.
-
-- [Preview the theme](https://kbsezginel.github.io/gh-pages-template/)
-- [See the original theme in action](https://pages-themes.github.io/minimal/)
+# How to Edit
+- Home འདུན་ངོས། - [index.md](https://github.com/MonlamAI/monlam.ai/blob/main/index.md)
+- OCR - [ocr.md](https://github.com/MonlamAI/monlam.ai/blob/main/ocr.md)
+- MT - [translation.md](https://github.com/MonlamAI/monlam.ai/blob/main/translation.md)
+- STT - [stt.md](https://github.com/MonlamAI/monlam.ai/blob/main/stt.md)
 
 ## Usage
 See [setup and customization instructions](https://kbsezginel.github.io/gh-pages-template/setup) to start using the theme.
