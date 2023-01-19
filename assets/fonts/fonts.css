@@ -1,17 +1,3 @@
 <style> 
-@font-face {
-   font-family: monalm-r;
-   src: url(sansation_light.woff);
-  
-}
-
-@font-face {
-   font-family: monlam-b;
-   src: url(sansation_bold.woff);
-   
-}
-
-* {
-   font-family: myFirstFont;
-}
+<link href="monlam2/stylesheet.css" rel="stylesheet">
 </style>
