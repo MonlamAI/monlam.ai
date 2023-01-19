@@ -5,13 +5,17 @@ body {
   background-color: #fff;
   padding:50px;
   font-family: Monlam;
+    line-height: 32px;
   color:#595959;
   font-weight:400;
+    text-align: justify;
+        text-justify: auto;
+   
 }
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
-  font-family: Monlam-b;
+    font-family: Monlam-b;
 }
 
 p, ul, ol, table, pre, dl {
