@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Monlam TBslim';
+    font-family: 'Monlam';
     src: url('MonlamTBslim.eot');
     src: url('MonlamTBslim.eot?#iefix') format('embedded-opentype'),
         url('MonlamTBslim.woff2') format('woff2'),
@@ -12,7 +12,7 @@
 }
 
 @font-face {
-    font-family: 'Monlam DicA2021';
+    font-family: 'Monlam-b';
     src: url('MonlamDicA2021-Regular.eot');
     src: url('MonlamDicA2021-Regular.eot?#iefix') format('embedded-opentype'),
         url('MonlamDicA2021-Regular.woff2') format('woff2'),
