@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Monlam TBslim';
+    src: url('MonlamTBslim.eot');
+    src: url('MonlamTBslim.eot?#iefix') format('embedded-opentype'),
+        url('MonlamTBslim.woff2') format('woff2'),
+        url('MonlamTBslim.woff') format('woff'),
+        url('MonlamTBslim.ttf') format('truetype'),
+        url('MonlamTBslim.svg#MonlamTBslim') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monlam DicA2021';
+    src: url('MonlamDicA2021-Regular.eot');
+    src: url('MonlamDicA2021-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MonlamDicA2021-Regular.woff2') format('woff2'),
+        url('MonlamDicA2021-Regular.woff') format('woff'),
+        url('MonlamDicA2021-Regular.ttf') format('truetype'),
+        url('MonlamDicA2021-Regular.svg#MonlamDicA2021-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
