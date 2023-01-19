@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font-family: Monlam;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace, Monlam;
     line-height: 32px;
   color:#595959;
   font-weight:400;
