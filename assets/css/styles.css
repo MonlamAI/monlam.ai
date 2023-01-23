@@ -203,6 +203,7 @@ footer {
    width: 100%;
   border-top: solid 1px #d7d3d3;
    text-align: center;
+  background-color: #fff;
 }
 
 @media print, screen and (max-width: 960px) {
