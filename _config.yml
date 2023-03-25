@@ -6,14 +6,10 @@ theme: jekyll-theme-minimal
 navigation:
   - title: Home
     url: /
-  - title: Monlam Translate
-    url: /translation
-  - title: Monlam OCR
-    url: /ocr
-  - title: Monlam Speech
-    url: /stt
-  - title: Partners
+  - title: The Project
+    url: /project
+  - title: Our Team
     url: /partners
-  - title: Job Application
+  - title: Jobs
     url: /jobs
     
