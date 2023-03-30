@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 navigation:
   - title: Home
     url: /
-  - title: 2023 Project
+  - title: 2023
     url: /project
   - title: Our Team
     url: /partners
