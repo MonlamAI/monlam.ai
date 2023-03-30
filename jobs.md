@@ -1,22 +1,26 @@
 ## Jobs at Monlam AI
 
 ----
-**Python Programmer**
+### Python Programmer
+One line job description
 
-
+<details>
+  <summary>More details</summary>
+  
+  Detailed description
+  
+</details>
 
 [Apply now🡵](https://docs.google.com/forms/d/11lIU9v67da_TYJ9bjoTmmn7gVHEIfopXDAEO0SMFV5w/edit#responses)
 
 ----
-Image annotator [Apply now🡵](https://docs.google.com/forms/d/11lIU9v67da_TYJ9bjoTmmn7gVHEIfopXDAEO0SMFV5w/edit#responses)
+### Image annotator
 
-----
-Programmer [Apply now🡵](https://docs.google.com/forms/d/11lIU9v67da_TYJ9bjoTmmn7gVHEIfopXDAEO0SMFV5w/edit#responses)
+<details>
+  <summary>More details</summary>
+  
+  Detailed description
+  
+</details>
 
-
-## ལས་ཞུགས་བྱེད་འདོད་ཡོད་རིགས་ཀྱིས་སྙན་ཞུའི་འགེངས་ཤོ། 
-<a href="https://docs.google.com/forms/d/11lIU9v67da_TYJ9bjoTmmn7gVHEIfopXDAEO0SMFV5w/edit#responses">སྙན་ཞུའི་འགེངས་ཤོག</a>
-
-
-Corporate Security Engineer
-San Francisco, California, United States — IT
+[Apply now🡵](https://docs.google.com/forms/d/11lIU9v67da_TYJ9bjoTmmn7gVHEIfopXDAEO0SMFV5w/edit#responses)
