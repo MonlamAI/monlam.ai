@@ -15,16 +15,16 @@ One line job description
 
 **Job description and responsibilities**
 
-   Carry out individual responsibilities for the overall success of python delivery within
+  - Carry out individual responsibilities for the overall success of python delivery within
   the development team.
 
-   Creating ETLs to feed the data warehouse and creating reporting services as needed.
+  - Creating ETLs to feed the data warehouse and creating reporting services as needed.
 
-   Working with and supporting other technical team members.
+  - Working with and supporting other technical team members.
 
-   Should know how to work in large verities of libraries, frameworks and modules
+  - Should know how to work in large verities of libraries, frameworks and modules
 
-   Integration of data storage solution
+  - Integration of data storage solution
 
 **Skills Required**:
 
