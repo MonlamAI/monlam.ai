@@ -8,7 +8,8 @@
   
 <strong>Location</strong>: Work from home/Remote<br>
 <strong>Nature of job</strong>: Full time<br>
-<strong>Salary</strong>: Based of experience<br>
+<strong>Salary</strong>: Based of experience<br><br>
+
 <h3>Job description and responsibilities</h3>
 <ul>
  <li>Carry out individual responsibilities for the overall success of python delivery within
@@ -48,7 +49,8 @@
   
 <strong>Location</strong>: Work from home/Remote<br>
 <strong>Nature of job</strong>: Full time or Part time<br>
-<strong>Salary</strong>: Unit base<br>
+<strong>Salary</strong>: Unit base<br><br>
+
 <h3>Job description and responsibilities</h3>
 <ul>
 <li>Annotating layout of pages</li>
