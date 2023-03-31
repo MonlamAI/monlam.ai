@@ -2,29 +2,22 @@
 
 ----
 ### Python Programmer
-One line job description
 
 <details>
   <summary>More details</summary>
   
-<strong>Location</strong>: Work from home/Remote
-
-<strong>Nature of job</strong>: Full time
-
-<strong>Salary</strong>: Based of experience
-
+<strong>Location</strong>: Work from home/Remote</br>
+<strong>Nature of job</strong>: Full time</br>
+<strong>Salary</strong>: Based of experience</br>
 <h3>Job description and responsibilities</h3>
-
-  - Carry out individual responsibilities for the overall success of python delivery within
-  the development team.
-
-  - Creating ETLs to feed the data warehouse and creating reporting services as needed.
-
-  - Working with and supporting other technical team members.
-
-  - Should know how to work in large verities of libraries, frameworks and modules
-
-  - Integration of data storage solution
+<ul>
+ <li>Carry out individual responsibilities for the overall success of python delivery within
+  the development team.</li>
+ <li>Creating ETLs to feed the data warehouse and creating reporting services as needed.</li>
+ <li>Working with and supporting other technical team members.</li>
+ <li>Should know how to work in large verities of libraries, frameworks and modules.</li>
+ <li>Integration of data storage solution</li>
+</ul>
 
 <h3>Skills Required:</h3>
 
@@ -33,13 +26,14 @@ One line job description
   <li>Knowledge on python language</li>
   <li>Debugging and software fault diagnoses</li>
   <li>Knowledge on Linux is a plus</li>
+  <li>Should be comfortable to collaborate using Github</li>
   <li>Good to have passion about Tibetan language</li>
 </ul>
 
 <h3>Qualification:</h3>
-  <ul>
-   <li>BCA, MCA, B.Tech in software, BSc and MSc in Computer</li>
-  </ul>
+<ul>
+ <li>BCA, MCA, B.Tech in software, BSc and MSc in Computer</li>
+</ul>
     
   
 </details>
@@ -52,31 +46,22 @@ One line job description
 <details>
   <summary>More details</summary>
   
-**Location**: Work from home/Remote
+<strong>Location</strong>: Work from home/Remote</br>
+<strong>Nature of job</strong>: Full time or Part time</br>
+<strong>Salary</strong>: Unit base</br>
+<h3>Job description and responsibilities</h3>
+<ul>
+<li>Annotating layout of pages</li>
+<li>Annotating line boundaries</li>
+<li>Transcribing text from images</li>
+<li>Selecting unique images</li>
+</ul>
+<h3>Skills Required:</h3>
+<ul>
+  <li>Basic computer skill</li>
+</ul>
 
-**Nature of job**: Full time or Part time
-
-**Salary**: Unit base
-
-**Job description and responsibilities**
-
-   Annotating layout of pages
-
-   Annotating line boundaries
-
-   Transcribing text from images
-
-   Selecting unique images
-
-**Skills Required**:
-
-   Basic computer skills
-
-**Qualification**:
-
-   None
-
-**You need to have a laptop and internet of your own**
+<strong>You need to have a laptop and internet of your own</strong>
   
 </details>
 
