@@ -7,13 +7,13 @@ One line job description
 <details>
   <summary>More details</summary>
   
-**Location**: Work from home/Remote
+<strong>Location</strong>: Work from home/Remote
 
-**Nature of job**: Full time
+<strong>Nature of job</strong>: Full time
 
-**Salary**: Based of experience
+<strong>Salary</strong>: Based of experience
 
-**Job description and responsibilities**
+<h3>Job description and responsibilities</h3>
 
   - Carry out individual responsibilities for the overall success of python delivery within
   the development team.
@@ -26,21 +26,20 @@ One line job description
 
   - Integration of data storage solution
 
-**Skills Required**:
+<h3>Skills Required:</h3>
 
-   Hands on experience with python
+<ul>
+  <li>Hands on experience with python</li>
+  <li>Knowledge on python language</li>
+  <li>Debugging and software fault diagnoses</li>
+  <li>Knowledge on Linux is a plus</li>
+  <li>Good to have passion about Tibetan language</li>
+</ul>
 
-   Knowledge on python language
-
-   Debugging and software fault diagnoses
-
-   Knowledge on Linux is a plus
-
-   Good to have passion about Tibetan language
-
-**Qualification**:
-
-   BCA, MCA, B.Tech in software, BSc and MSc in Computer
+<h3>Qualification:</h3>
+  <ul>
+   <li>BCA, MCA, B.Tech in software, BSc and MSc in Computer</li>
+  </ul>
     
   
 </details>
