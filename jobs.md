@@ -39,7 +39,7 @@
   
 </details>
 
-[Apply now🡵](https://docs.google.com/forms/d/11lIU9v67da_TYJ9bjoTmmn7gVHEIfopXDAEO0SMFV5w/edit#responses)
+[Apply now🡵](https://forms.gle/6712nPcDPhkeXUHf7)
 
 ----
 ### Image annotator
