@@ -2,6 +2,7 @@
 
 ----
 ### Python Programmer
+Join us to put AI at the service of Tibetan language and culture. 
 
 <details>
   <summary>More details</summary>
@@ -43,6 +44,7 @@
 
 ----
 ### Image annotator
+Annotate pecha images to train an OCR engine for all Tibetan scripts
 
 <details>
   <summary>More details</summary>
