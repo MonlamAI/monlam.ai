@@ -43,7 +43,7 @@ Join us to put AI at the service of Tibetan language and culture.
 [Apply now🡵](https://forms.gle/6712nPcDPhkeXUHf7)
 
 ----
-### Image annotator
+### Tibetan Data Freelancer
 Annotate pecha images to train an OCR engine for all Tibetan scripts
 
 <details>
