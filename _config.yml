@@ -12,4 +12,6 @@ navigation:
     url: /partners
   - title: ས་མིག Jobs
     url: /jobs
+  - title: Chatbot
+    url: /chatbot
     
